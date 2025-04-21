@@ -53,3 +53,10 @@ Este é um projeto acadêmico do curso de Análise e Desenvolvimento de Sistemas
 > "Ninguém pode ajudar todo mundo, mas todo mundo pode ajudar alguém. " <br> - Desconhecido
 
 </div>
+
+<!-- Commit
+
+:wheelchair: Inclusão na TI
+[seu-texto-aqui]
+
+ -->
